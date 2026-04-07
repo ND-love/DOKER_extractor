@@ -1,0 +1,7 @@
+*.tar
+*.txt
+Dockerfile
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
